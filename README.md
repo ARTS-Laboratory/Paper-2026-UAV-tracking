@@ -15,13 +15,13 @@ Cite this data as:
 
 #### Bibtex
 
-@Misc{ARTSLab2025Paper2025Finite,    
+@Misc{ARTSLab2026Paper2026Stereo,    
   author = {{ARTS-L}ab},  
   howpublished = {GitHub},  
-  title  = {Paper 2025 Finite Element Modeling of Fixed-Fixed Beams Under Shock Excitation with Active Control},  
+  title  = {Paper 2026 Stereo YOLO UAV Localization and Tracking},  
   groups = {ARTS-Lab},    
-  year = {2025},   
-  url    = {https://github.com/ARTS-Laboratory/Paper-2025-Active-Vibration-Control-of-Fixed-Fixed-Beams-using-Data-driven-Control},   
+  year = {2026},   
+  url    = {https://github.com/ARTS-Laboratory/Paper-2026-Stereo-YOLO-UAV-Localization-and-Tracking/tree/main},   
 }
 
 
