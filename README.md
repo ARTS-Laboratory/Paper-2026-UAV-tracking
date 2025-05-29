@@ -1,7 +1,12 @@
 # Paper-2026 Stereo YOLO UAV Localization and Tracking
-Workspace for 2026 AIAA SciTech paper "Stereo YOLO UAV Localization and Tracking Enabling Autonomous Sensor Deployment on Critical Infrastructure"
+Workspace for 2026 AIAA SciTech paper "Stereo YOLO UAV Localization and Tracking Enabling Autonomous Sensor Deployment on Critical Infrastructure".
 
+This work is completed on the basis of a UAV-deployable sensor package system that can be flown and magnetically attach sensors underneath metal elements of a structure [1,2]. This system uses two cameras for stereo vision to track the movement of the UAV as it docks its magnetic sensors. An object tracking algorithm called You Only Look Once (YOLO) has been trained on images of the UAV flight to translate color images of the drone flight into three-dimensional coordinates, with the help of some additional Python code for this stereo analysis of input images. These three-dimensional coordinates were derived by having the object tracking algorithm draw bounding boxes around the element of interest (the UAV), where the center of the bounding box is considered the coordinate location of the drone.
 
+## References
+
+[1] Satme, J. N., Yount, R., Goujevskii, N., Jannazzo, L., and Downey, A. R. J., “Sensor Package Deployment and Recovery Cone with Integrated Video Streaming for Rapid Structural Health Monitoring,” ASME 2024 Conference on Smart Materials, Adaptive Structures and Intelligent Systems, American Society of Mechanical Engineers, 2024. https://doi.org/10.1115/smasis2024-140435.
+[2] Smith, C., Satme, J., Martin, J., Downey, A. R., Vitzilaios, N., and Imran, J., “UAV rapidly-deployable stage sensor with electro-permanent magnet docking mechanism for flood monitoring in undersampled watersheds,” HardwareX, Vol. 12, 2022, p.e00325. https://doi.org/10.1016/j.ohx.2022.e00325.
 
 
 ## Licensing and Citation
@@ -16,7 +21,7 @@ Cite this data as:
 #### Bibtex
 
 @Misc{ARTSLab2026Paper2026Stereo,    
-  author = {{ARTS-L}ab},  
+  author = {ARTS-Lab},  
   howpublished = {GitHub},  
   title  = {Paper 2026 Stereo YOLO UAV Localization and Tracking},  
   groups = {ARTS-Lab},    
