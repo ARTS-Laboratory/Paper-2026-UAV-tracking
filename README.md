@@ -6,6 +6,7 @@ This work is completed on the basis of a UAV-deployable sensor package system th
 ### References
 
 [1] Satme, J. N., Yount, R., Goujevskii, N., Jannazzo, L., and Downey, A. R. J., “Sensor Package Deployment and Recovery Cone with Integrated Video Streaming for Rapid Structural Health Monitoring,” ASME 2024 Conference on Smart Materials, Adaptive Structures and Intelligent Systems, American Society of Mechanical Engineers, 2024. https://doi.org/10.1115/smasis2024-140435.
+
 [2] Smith, C., Satme, J., Martin, J., Downey, A. R., Vitzilaios, N., and Imran, J., “UAV rapidly-deployable stage sensor with electro-permanent magnet docking mechanism for flood monitoring in undersampled watersheds,” HardwareX, Vol. 12, 2022, p.e00325. https://doi.org/10.1016/j.ohx.2022.e00325.
 
 
