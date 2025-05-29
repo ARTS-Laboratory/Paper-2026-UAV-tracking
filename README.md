@@ -1,5 +1,5 @@
 # Paper-2026-UAV-tracking
-Workspace for UAV tracking 
+Workspace for 2026 AIAA SciTech paper "Stereo YOLO UAV Localization and Tracking Enabling Autonomous Sensor Deployment on Critical Infrastructure"
 
 
 
