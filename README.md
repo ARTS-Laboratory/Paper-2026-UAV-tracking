@@ -7,13 +7,13 @@ This work is completed on the basis of a UAV-deployable sensor package system th
 
 **Figure 1:** Complete set-up of UAV flight zone and docking area with associated cameras.
 
-![Figure 1](Analysis/Figures/cam_position_real.png)
+![Figure 2](Figures/cam_position_real.png)
 
-**Figure 1:** Positional placement of cameras that will send visual data to the computer running YOLO.
+**Figure 2:** Positional placement of cameras that will send visual data to the computer running YOLO.
 
-![Figure 1](Analysis/Figures/YOLO_drone_detection.png)
+![Figure 3](Figures/YOLO_drone_detection.png)
 
-**Figure 1:** YOLO bounding box output of the UAV during flight, with the center representing the coordinate location of the drone.
+**Figure 3:** YOLO bounding box output of the UAV during flight, with the center representing the coordinate location of the drone.
 
 ### References
 
